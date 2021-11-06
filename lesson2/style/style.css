@@ -1,0 +1,36 @@
+body {
+    background-image: url(/images/bg.jpeg);
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+
+img {
+    max-width: 100px;
+    max-height: 100px;
+    object-fit: content;
+}
+
+.text {
+    color: purple;
+    text-align: left;
+}
+
+.dialog {
+    position:fixed;
+}
+
+#main {
+    text-align: left;
+}
+
+#links {
+    text-align: left;
+}
+
+#inf {
+    text-align: left;
+}
+
+#something_new {
+    text-align: left;
+}

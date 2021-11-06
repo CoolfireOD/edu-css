@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+    border: solid 3px;
+}
+.parent {
+    width: 30%;
+    height: 500px;
+    background-color: pink;
+    position: relative;
+}
+
+.child {
+    width: 80%;
+    height: 300px;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    background-color: green;
+}
+
+.element {
+    position: absolute;
+    width: 60%;
+    height: 150px;
+    top: 50%;
+    left: 20%;
+    background-color: yellow;
+}

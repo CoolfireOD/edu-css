@@ -1,0 +1,66 @@
+.firsttable_centre {
+    text-align: center;
+    width: 100%;
+}
+
+table {
+    width: 100%;
+}
+
+.text {
+    text-align: center;
+}
+
+.secondtable_width {
+    width: 40%;
+}
+
+.secondtable_width_small {
+    width: 20%;
+}
+
+li.t1 {
+    color: red;
+}
+
+li.t2 {
+    color: black;
+}
+
+li.t3 {
+    color: aqua;
+}
+
+li.t4 {
+    color: blue;
+}
+
+li.t5 {
+    color: blueviolet;
+}
+
+.box {
+    background-color: maroon;
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    box-shadow: 11px -25px 26px -2px rgba(0,0,0,1);
+    -webkit-box-shadow: 11px -25px 26px -2px rgba(0,0,0,1);
+    -moz-box-shadow: 11px -25px 26px -2px rgba(0,0,0,1);
+}
+
+.box .box2 {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thirdtable_width {
+    width: 70%;
+}
+
+.button {
+    margin-left: auto;
+}
